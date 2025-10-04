@@ -1,4 +1,4 @@
-# PRÁCTICA 1 INF-121
+# PRÁCTICA GENERAL INF-121
 # Alejandro Cory Cornejo
 CI: 8480654
 
