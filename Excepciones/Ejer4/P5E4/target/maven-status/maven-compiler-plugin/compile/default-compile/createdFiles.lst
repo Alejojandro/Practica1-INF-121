@@ -1,0 +1,5 @@
+com\mycompany\p5e4\Inventario.class
+com\mycompany\p5e4\Inventario$ProductoNoEncontradoException.class
+com\mycompany\p5e4\Producto.class
+com\mycompany\p5e4\Inventario$StockInsuficienteException.class
+com\mycompany\p5e4\P5E4.class
